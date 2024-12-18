@@ -24,9 +24,9 @@ DCGAN was a significant breakthrough in GAN architecture, introduced by Radford 
  - **Traditional GAN**: Uses **dense layers**, less stable training.
  - **DCGAN**: Uses **convolutional layers**, more stable and better image quality
 
-Training Characteristics:
+## Training Characteristics
 
-More stable training process
-Better convergence
-Ability to generate more coherent images
-Works well with image datasets like faces, objects, etc.
+ - More stable training process.
+ - Better **convergence**.
+ - Ability to generate more **coherent** images.
+ - Works well with image datasets like faces, objects, etc.
