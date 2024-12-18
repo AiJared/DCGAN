@@ -1,7 +1,7 @@
 # Deep Convolutional Generative Adversarial Network
 
 DCGAN was a significant breakthrough in GAN architecture, introduced by Radford et al. in 2015. It established several best practices for designing stable GAN architectures.
-## Key Architectural Innovations:
+## Key Architectural Innovations
 
 1. **Convolutional Layers**:
 
@@ -19,10 +19,10 @@ DCGAN was a significant breakthrough in GAN architecture, introduced by Radford 
 
 
 
-Architecture Comparison:
+## Architecture Comparison
 
-Traditional GAN: Uses dense layers, less stable training
-DCGAN: Uses convolutional layers, more stable and better image quality
+ - **Traditional GAN**: Uses **dense layers**, less stable training.
+ - **DCGAN**: Uses **convolutional layers**, more stable and better image quality
 
 Training Characteristics:
 
