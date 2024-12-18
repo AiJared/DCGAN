@@ -3,13 +3,13 @@
 DCGAN was a significant breakthrough in GAN architecture, introduced by Radford et al. in 2015. It established several best practices for designing stable GAN architectures.
 ## Key Architectural Innovations:
 
- 1. **Convolutional Layers**:
+1. **Convolutional Layers**:
 
 Replaces *fully connected layers* with *convolutional layers*.
 Allows for more efficient processing of **image** data.
 Helps capture **spatial hierarchies** in images.
 
- 2. **Architectural Guidelines**:
+2. **Architectural Guidelines**:
 
 Use strided convolutions for downsampling in the discriminator
 Use transposed convolutions for upsampling in the generator
