@@ -22,7 +22,7 @@ DCGAN was a significant breakthrough in GAN architecture, introduced by Radford 
 ## Architecture Comparison
 
  - **Traditional GAN**: Uses **dense layers**, less stable training.
- - **DCGAN**: Uses **convolutional layers**, more stable and better image quality
+ - **DCGAN**: Uses **convolutional layers**, more stable and better image quality.
 
 ## Training Characteristics
 
