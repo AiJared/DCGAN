@@ -11,7 +11,7 @@ DCGAN was a significant breakthrough in GAN architecture, introduced by Radford 
 
 2. **Architectural Guidelines**:
 
-    - Use *strided convolutions* for downsampling in the **discriminator**.
+    - Use **strided convolutions** for downsampling in the **discriminator**.
     - Use *transposed convolutions* for upsampling in the **generator**.
     - Apply **batch normalization** in both generator and discriminator.
     - Use **LeakyReLU** activation functions instead of standard ReLU.
