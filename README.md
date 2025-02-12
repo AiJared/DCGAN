@@ -15,7 +15,7 @@ DCGAN was a significant breakthrough in GAN architecture, introduced by Radford 
     - Use **transposed convolutions** for upsampling in the **generator**.
     - Apply **batch normalization** in both generator and discriminator.
     - Use **LeakyReLU** activation functions instead of standard ReLU.
-    - Remove *fully connected* hidden layers.
+    - Remove **fully connected** hidden layers.
 
 
 
