@@ -21,7 +21,7 @@
 
 ## Architecture Comparison
 
- - **Traditional GAN**: Uses **dense layers**, less stable training.
+ - **Traditional GAN**: Uses **dense layers**, *less stable training*.
  - **DCGAN**: Uses **convolutional layers**, more stable and better image quality.
 
 ## Training Characteristics
