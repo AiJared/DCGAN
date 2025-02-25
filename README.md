@@ -26,7 +26,7 @@
 
 ## Training Characteristics
 
- - More stable training process.
+ - More *stable training* process.
  - Better **convergence**.
  - Ability to generate more **coherent** images.
  - Works well with image datasets like faces, objects, etc.
