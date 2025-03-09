@@ -5,7 +5,7 @@
 
 1. **Convolutional Layers**:
 
-    - Replaces **fully connected layers** with **convolutional layers**.
+    - Replaces *fully connected layers* with **convolutional layers**.
     - Allows for more efficient processing of *image data*.
     - Helps capture *spatial hierarchies* in **images**.
 
