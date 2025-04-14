@@ -1,6 +1,6 @@
 # Deep Convolutional Generative Adversarial Network
 
-**DCGAN** was a significant breakthrough in **GAN architecture**, introduced by *Radford et al. in 2015*. It established several best practices for designing **stable GAN architectures**.
+**DCGAN** was a significant breakthrough in **GAN architecture**, introduced by *Radford et al.* in 2015. It established several best practices for designing *stable GAN architectures*.
 ## Key Architectural Innovations
 
 1. **Convolutional Layers**:
